@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: f8c1b2f6f43f775479ffd6cf58e85ab5
+timeCreated: 1514290829
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PIS_1
+    100004: PIS_10
+    100006: PIS_11
+    100008: PIS_12
+    100010: PIS_13
+    100012: PIS_14
+    100014: PIS_15
+    100016: PIS_16
+    100018: PIS_17
+    100020: PIS_18
+    100022: PIS_19
+    100024: PIS_2
+    100026: PIS_3
+    100028: PIS_4
+    100030: PIS_5
+    100032: PIS_6
+    100034: PIS_7
+    100036: PIS_8
+    100038: PIS_9
+    400000: //RootNode
+    400002: PIS_1
+    400004: PIS_10
+    400006: PIS_11
+    400008: PIS_12
+    400010: PIS_13
+    400012: PIS_14
+    400014: PIS_15
+    400016: PIS_16
+    400018: PIS_17
+    400020: PIS_18
+    400022: PIS_19
+    400024: PIS_2
+    400026: PIS_3
+    400028: PIS_4
+    400030: PIS_5
+    400032: PIS_6
+    400034: PIS_7
+    400036: PIS_8
+    400038: PIS_9
+    2300000: PIS_1
+    2300002: PIS_10
+    2300004: PIS_11
+    2300006: PIS_12
+    2300008: PIS_13
+    2300010: PIS_14
+    2300012: PIS_15
+    2300014: PIS_16
+    2300016: PIS_17
+    2300018: PIS_18
+    2300020: PIS_19
+    2300022: PIS_2
+    2300024: PIS_3
+    2300026: PIS_4
+    2300028: PIS_5
+    2300030: PIS_6
+    2300032: PIS_7
+    2300034: PIS_8
+    2300036: PIS_9
+    3300000: PIS_1
+    3300002: PIS_10
+    3300004: PIS_11
+    3300006: PIS_12
+    3300008: PIS_13
+    3300010: PIS_14
+    3300012: PIS_15
+    3300014: PIS_16
+    3300016: PIS_17
+    3300018: PIS_18
+    3300020: PIS_19
+    3300022: PIS_2
+    3300024: PIS_3
+    3300026: PIS_4
+    3300028: PIS_5
+    3300030: PIS_6
+    3300032: PIS_7
+    3300034: PIS_8
+    3300036: PIS_9
+    4300000: PIS_8
+    4300002: PIS_19
+    4300004: PIS_5
+    4300006: PIS_7
+    4300008: PIS_10
+    4300010: PIS_15
+    4300012: PIS_1
+    4300014: PIS_3
+    4300016: PIS_2
+    4300018: PIS_14
+    4300020: PIS_13
+    4300022: PIS_11
+    4300024: PIS_16
+    4300026: PIS_4
+    4300028: PIS_12
+    4300030: PIS_18
+    4300032: PIS_17
+    4300034: PIS_6
+    4300036: PIS_9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108358
+  packageName: RADIO STATION
+  packageVersion: 1.0
+  assetPath: Assets/Radio Station/Models/Pid_Models_3.FBX
+  uploadId: 221974

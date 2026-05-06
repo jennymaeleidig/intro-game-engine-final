@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 3fff134bf57917b4f8565d47138fbc2e
+timeCreated: 1514290016
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: PIB_1
+    100002: PIB_10
+    100004: PIB_11
+    100006: PIB_12
+    100008: PIB_2
+    100010: PIB_3
+    100012: PIB_4
+    100014: PIB_5
+    100016: PIB_6
+    100018: PIB_7
+    100020: PIB_8
+    100022: PIB_9
+    100024: //RootNode
+    400000: PIB_1
+    400002: PIB_10
+    400004: PIB_11
+    400006: PIB_12
+    400008: PIB_2
+    400010: PIB_3
+    400012: PIB_4
+    400014: PIB_5
+    400016: PIB_6
+    400018: PIB_7
+    400020: PIB_8
+    400022: PIB_9
+    400024: //RootNode
+    2300000: PIB_1
+    2300002: PIB_10
+    2300004: PIB_11
+    2300006: PIB_12
+    2300008: PIB_2
+    2300010: PIB_3
+    2300012: PIB_4
+    2300014: PIB_5
+    2300016: PIB_6
+    2300018: PIB_7
+    2300020: PIB_8
+    2300022: PIB_9
+    3300000: PIB_1
+    3300002: PIB_10
+    3300004: PIB_11
+    3300006: PIB_12
+    3300008: PIB_2
+    3300010: PIB_3
+    3300012: PIB_4
+    3300014: PIB_5
+    3300016: PIB_6
+    3300018: PIB_7
+    3300020: PIB_8
+    3300022: PIB_9
+    4300000: PIB_10
+    4300002: PIB_11
+    4300004: PIB_12
+    4300006: PIB_4
+    4300008: PIB_3
+    4300010: PIB_2
+    4300012: PIB_9
+    4300014: PIB_8
+    4300016: PIB_7
+    4300018: PIB_6
+    4300020: PIB_5
+    4300022: PIB_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108358
+  packageName: RADIO STATION
+  packageVersion: 1.0
+  assetPath: Assets/Radio Station/Models/Pid_Models_2.FBX
+  uploadId: 221974

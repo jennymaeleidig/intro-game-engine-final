@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: b1fb9b603e8143c46b4a169bf69863f2
+timeCreated: 1514288255
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PIP_1
+    100004: PIP_10
+    100006: PIP_11
+    100008: PIP_12
+    100010: PIP_13
+    100012: PIP_14
+    100014: PIP_15
+    100016: PIP_16
+    100018: PIP_17
+    100020: PIP_18
+    100022: PIP_19
+    100024: PIP_2
+    100026: PIP_20
+    100028: PIP_21
+    100030: PIP_22
+    100032: PIP_23
+    100034: PIP_24
+    100036: PIP_25
+    100038: PIP_26
+    100040: PIP_27
+    100042: PIP_28
+    100044: PIP_29
+    100046: PIP_3
+    100048: PIP_30
+    100050: PIP_31
+    100052: PIP_32
+    100054: PIP_4
+    100056: PIP_5
+    100058: PIP_6
+    100060: PIP_7
+    100062: PIP_8
+    100064: PIP_9
+    400000: //RootNode
+    400002: PIP_1
+    400004: PIP_10
+    400006: PIP_11
+    400008: PIP_12
+    400010: PIP_13
+    400012: PIP_14
+    400014: PIP_15
+    400016: PIP_16
+    400018: PIP_17
+    400020: PIP_18
+    400022: PIP_19
+    400024: PIP_2
+    400026: PIP_20
+    400028: PIP_21
+    400030: PIP_22
+    400032: PIP_23
+    400034: PIP_24
+    400036: PIP_25
+    400038: PIP_26
+    400040: PIP_27
+    400042: PIP_28
+    400044: PIP_29
+    400046: PIP_3
+    400048: PIP_30
+    400050: PIP_31
+    400052: PIP_32
+    400054: PIP_4
+    400056: PIP_5
+    400058: PIP_6
+    400060: PIP_7
+    400062: PIP_8
+    400064: PIP_9
+    2300000: PIP_1
+    2300002: PIP_10
+    2300004: PIP_11
+    2300006: PIP_12
+    2300008: PIP_13
+    2300010: PIP_14
+    2300012: PIP_15
+    2300014: PIP_16
+    2300016: PIP_17
+    2300018: PIP_18
+    2300020: PIP_19
+    2300022: PIP_2
+    2300024: PIP_20
+    2300026: PIP_21
+    2300028: PIP_22
+    2300030: PIP_23
+    2300032: PIP_24
+    2300034: PIP_25
+    2300036: PIP_26
+    2300038: PIP_27
+    2300040: PIP_28
+    2300042: PIP_29
+    2300044: PIP_3
+    2300046: PIP_30
+    2300048: PIP_31
+    2300050: PIP_32
+    2300052: PIP_4
+    2300054: PIP_5
+    2300056: PIP_6
+    2300058: PIP_7
+    2300060: PIP_8
+    2300062: PIP_9
+    3300000: PIP_1
+    3300002: PIP_10
+    3300004: PIP_11
+    3300006: PIP_12
+    3300008: PIP_13
+    3300010: PIP_14
+    3300012: PIP_15
+    3300014: PIP_16
+    3300016: PIP_17
+    3300018: PIP_18
+    3300020: PIP_19
+    3300022: PIP_2
+    3300024: PIP_20
+    3300026: PIP_21
+    3300028: PIP_22
+    3300030: PIP_23
+    3300032: PIP_24
+    3300034: PIP_25
+    3300036: PIP_26
+    3300038: PIP_27
+    3300040: PIP_28
+    3300042: PIP_29
+    3300044: PIP_3
+    3300046: PIP_30
+    3300048: PIP_31
+    3300050: PIP_32
+    3300052: PIP_4
+    3300054: PIP_5
+    3300056: PIP_6
+    3300058: PIP_7
+    3300060: PIP_8
+    3300062: PIP_9
+    4300000: PIP_32
+    4300002: PIP_21
+    4300004: PIP_30
+    4300006: PIP_28
+    4300008: PIP_29
+    4300010: PIP_19
+    4300012: PIP_18
+    4300014: PIP_17
+    4300016: PIP_16
+    4300018: PIP_31
+    4300020: PIP_20
+    4300022: PIP_26
+    4300024: PIP_27
+    4300026: PIP_25
+    4300028: PIP_2
+    4300030: PIP_3
+    4300032: PIP_1
+    4300034: PIP_4
+    4300036: PIP_14
+    4300038: PIP_15
+    4300040: PIP_13
+    4300042: PIP_12
+    4300044: PIP_5
+    4300046: PIP_6
+    4300048: PIP_11
+    4300050: PIP_10
+    4300052: PIP_7
+    4300054: PIP_8
+    4300056: PIP_9
+    4300058: PIP_24
+    4300060: PIP_22
+    4300062: PIP_23
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.8
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108358
+  packageName: RADIO STATION
+  packageVersion: 1.0
+  assetPath: Assets/Radio Station/Models/Pid_Models_1.FBX
+  uploadId: 221974

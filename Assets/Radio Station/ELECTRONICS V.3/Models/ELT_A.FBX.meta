@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 822e22dd6ce948a44ac3a79cb30ae2b0
+timeCreated: 1512554782
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: e1
+    100002: e10
+    100004: e11
+    100006: e12
+    100008: e13
+    100010: e14
+    100012: e14 1
+    100014: e15
+    100016: e16
+    100018: e2
+    100020: e3
+    100022: e4
+    100024: e5
+    100026: e6
+    100028: e7
+    100030: e8
+    100032: e9
+    100034: //RootNode
+    100036: EPan_1
+    100038: EPan_10
+    100040: EPan_11
+    100042: EPan_12
+    100044: EPan_13
+    100046: EPan_14
+    100048: EPan_2
+    100050: EPan_3
+    100052: EPan_4
+    100054: EPan_5
+    100056: EPan_6
+    100058: EPan_7
+    100060: EPan_8
+    100062: EPan_9
+    100064: Object001
+    100066: Object002
+    100068: g1
+    100070: g2
+    400000: e1
+    400002: e10
+    400004: e11
+    400006: e12
+    400008: e13
+    400010: e14
+    400012: e14 1
+    400014: e15
+    400016: e16
+    400018: e2
+    400020: e3
+    400022: e4
+    400024: e5
+    400026: e6
+    400028: e7
+    400030: e8
+    400032: e9
+    400034: //RootNode
+    400036: EPan_1
+    400038: EPan_10
+    400040: EPan_11
+    400042: EPan_12
+    400044: EPan_13
+    400046: EPan_14
+    400048: EPan_2
+    400050: EPan_3
+    400052: EPan_4
+    400054: EPan_5
+    400056: EPan_6
+    400058: EPan_7
+    400060: EPan_8
+    400062: EPan_9
+    400064: Object001
+    400066: Object002
+    400068: g1
+    400070: g2
+    2300000: e1
+    2300002: e10
+    2300004: e11
+    2300006: e12
+    2300008: e13
+    2300010: e14
+    2300012: e14 1
+    2300014: e15
+    2300016: e16
+    2300018: e2
+    2300020: e3
+    2300022: e4
+    2300024: e5
+    2300026: e6
+    2300028: e7
+    2300030: e8
+    2300032: e9
+    2300034: EPan_1
+    2300036: EPan_10
+    2300038: EPan_11
+    2300040: EPan_12
+    2300042: EPan_13
+    2300044: EPan_14
+    2300046: EPan_2
+    2300048: EPan_3
+    2300050: EPan_4
+    2300052: EPan_5
+    2300054: EPan_6
+    2300056: EPan_7
+    2300058: EPan_8
+    2300060: EPan_9
+    2300062: Object001
+    2300064: Object002
+    2300066: g1
+    2300068: g2
+    3300000: e1
+    3300002: e10
+    3300004: e11
+    3300006: e12
+    3300008: e13
+    3300010: e14
+    3300012: e14 1
+    3300014: e15
+    3300016: e16
+    3300018: e2
+    3300020: e3
+    3300022: e4
+    3300024: e5
+    3300026: e6
+    3300028: e7
+    3300030: e8
+    3300032: e9
+    3300034: EPan_1
+    3300036: EPan_10
+    3300038: EPan_11
+    3300040: EPan_12
+    3300042: EPan_13
+    3300044: EPan_14
+    3300046: EPan_2
+    3300048: EPan_3
+    3300050: EPan_4
+    3300052: EPan_5
+    3300054: EPan_6
+    3300056: EPan_7
+    3300058: EPan_8
+    3300060: EPan_9
+    3300062: Object001
+    3300064: Object002
+    3300066: g1
+    3300068: g2
+    4300000: EPan_11
+    4300002: e14
+    4300004: EPan_10
+    4300006: EPan_9
+    4300008: e15
+    4300010: e16
+    4300012: e14
+    4300014: EPan_8
+    4300016: e13
+    4300018: e11
+    4300020: e10
+    4300022: e12
+    4300024: EPan_7
+    4300026: e9
+    4300028: e8
+    4300030: EPan_6
+    4300032: e7
+    4300034: EPan_5
+    4300036: e5
+    4300038: e6
+    4300040: EPan_4
+    4300042: EPan_3
+    4300044: e4
+    4300046: EPan_2
+    4300048: e3
+    4300050: e2
+    4300052: EPan_1
+    4300054: e1
+    4300056: EPan_14
+    4300058: EPan_13
+    4300060: EPan_12
+    4300062: Object001
+    4300064: Object002
+    4300066: g1
+    4300068: g2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108358
+  packageName: RADIO STATION
+  packageVersion: 1.0
+  assetPath: Assets/Radio Station/ELECTRONICS V.3/Models/ELT_A.FBX
+  uploadId: 221974

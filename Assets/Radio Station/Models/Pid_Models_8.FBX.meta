@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 688b679dd6fe4bd4fa04827562432604
+timeCreated: 1514909478
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ZC_1
+    100004: ZC_10
+    100006: ZC_11
+    100008: ZC_12
+    100010: ZC_13
+    100012: ZC_14
+    100014: ZC_15
+    100016: ZC_16
+    100018: ZC_17
+    100020: ZC_2
+    100022: ZC_3
+    100024: ZC_4
+    100026: ZC_5
+    100028: ZC_6
+    100030: ZC_7
+    100032: ZC_8
+    100034: ZC_9
+    100036: Mesh Collier_11
+    400000: //RootNode
+    400002: ZC_1
+    400004: ZC_10
+    400006: ZC_11
+    400008: ZC_12
+    400010: ZC_13
+    400012: ZC_14
+    400014: ZC_15
+    400016: ZC_16
+    400018: ZC_17
+    400020: ZC_2
+    400022: ZC_3
+    400024: ZC_4
+    400026: ZC_5
+    400028: ZC_6
+    400030: ZC_7
+    400032: ZC_8
+    400034: ZC_9
+    400036: Mesh Collier_11
+    2300000: ZC_1
+    2300002: ZC_10
+    2300004: ZC_11
+    2300006: ZC_12
+    2300008: ZC_13
+    2300010: ZC_14
+    2300012: ZC_15
+    2300014: ZC_16
+    2300016: ZC_17
+    2300018: ZC_2
+    2300020: ZC_3
+    2300022: ZC_4
+    2300024: ZC_5
+    2300026: ZC_6
+    2300028: ZC_7
+    2300030: ZC_8
+    2300032: ZC_9
+    2300034: Mesh Collier_11
+    3300000: ZC_1
+    3300002: ZC_10
+    3300004: ZC_11
+    3300006: ZC_12
+    3300008: ZC_13
+    3300010: ZC_14
+    3300012: ZC_15
+    3300014: ZC_16
+    3300016: ZC_17
+    3300018: ZC_2
+    3300020: ZC_3
+    3300022: ZC_4
+    3300024: ZC_5
+    3300026: ZC_6
+    3300028: ZC_7
+    3300030: ZC_8
+    3300032: ZC_9
+    3300034: Mesh Collier_11
+    4300000: ZC_17
+    4300002: ZC_1
+    4300004: ZC_5
+    4300006: ZC_6
+    4300008: ZC_7
+    4300010: ZC_8
+    4300012: ZC_9
+    4300014: ZC_16
+    4300016: ZC_4
+    4300018: ZC_2
+    4300020: ZC_3
+    4300022: ZC_14
+    4300024: ZC_13
+    4300026: ZC_15
+    4300028: ZC_12
+    4300030: ZC_11
+    4300032: ZC_10
+    4300034: Mesh Collier_11
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.8
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108358
+  packageName: RADIO STATION
+  packageVersion: 1.0
+  assetPath: Assets/Radio Station/Models/Pid_Models_8.FBX
+  uploadId: 221974

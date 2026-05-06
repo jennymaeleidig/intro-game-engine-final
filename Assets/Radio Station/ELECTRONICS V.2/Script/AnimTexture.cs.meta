@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4c801273cf643074fa210e49cea187d6
+timeCreated: 1485539081
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108358
+  packageName: RADIO STATION
+  packageVersion: 1.0
+  assetPath: Assets/Radio Station/ELECTRONICS V.2/Script/AnimTexture.cs
+  uploadId: 221974

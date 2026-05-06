@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce41544d935ff9a4d8c0ca411f203b94
+timeCreated: 1514474364
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108358
+  packageName: RADIO STATION
+  packageVersion: 1.0
+  assetPath: Assets/Radio Station/Materials/PID_Tex_5_diffuse.mat
+  uploadId: 221974

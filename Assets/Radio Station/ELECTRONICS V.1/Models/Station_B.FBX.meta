@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 455cabbcdefc702489ca30d656f99130
+timeCreated: 1493557250
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Key_A_Station_4
+    100002: Key_A_Station_5
+    100004: Key_A_Station_6
+    100006: Key_B_Station_4
+    100008: Key_B_Station_5
+    100010: Key_B_Station_5 1
+    100012: Key_C_Station_4
+    100014: Key_C_Station_5
+    100016: Key_C_Station_5 1
+    100018: Key_D_Station_4
+    100020: Key_D_Station_5
+    100022: Key_D_Station_5 1
+    100024: Key_E_Station_4
+    100026: Key_F_Station_4
+    100028: Key_F_Station_5
+    100030: Key_F_Station_5 1
+    100032: Key_G_Station_4
+    100034: Key_G_Station_5
+    100036: Key_H_Station_4
+    100038: Key_Q_Station_4
+    100040: Key_R_Station_4
+    100042: Key_T_Station_4
+    100044: Key_Y_Station_4
+    100046: Station_4
+    100048: Station_5
+    100050: Station_6
+    100052: Station_7
+    100054: //RootNode
+    400000: Key_A_Station_4
+    400002: Key_A_Station_5
+    400004: Key_A_Station_6
+    400006: Key_B_Station_4
+    400008: Key_B_Station_5
+    400010: Key_B_Station_5 1
+    400012: Key_C_Station_4
+    400014: Key_C_Station_5
+    400016: Key_C_Station_5 1
+    400018: Key_D_Station_4
+    400020: Key_D_Station_5
+    400022: Key_D_Station_5 1
+    400024: Key_E_Station_4
+    400026: Key_F_Station_4
+    400028: Key_F_Station_5
+    400030: Key_F_Station_5 1
+    400032: Key_G_Station_4
+    400034: Key_G_Station_5
+    400036: Key_H_Station_4
+    400038: Key_Q_Station_4
+    400040: Key_R_Station_4
+    400042: Key_T_Station_4
+    400044: Key_Y_Station_4
+    400046: Station_4
+    400048: Station_5
+    400050: Station_6
+    400052: Station_7
+    400054: //RootNode
+    2300000: Key_A_Station_4
+    2300002: Key_A_Station_5
+    2300004: Key_A_Station_6
+    2300006: Key_B_Station_4
+    2300008: Key_B_Station_5
+    2300010: Key_B_Station_5 1
+    2300012: Key_C_Station_4
+    2300014: Key_C_Station_5
+    2300016: Key_C_Station_5 1
+    2300018: Key_D_Station_4
+    2300020: Key_D_Station_5
+    2300022: Key_D_Station_5 1
+    2300024: Key_E_Station_4
+    2300026: Key_F_Station_4
+    2300028: Key_F_Station_5
+    2300030: Key_F_Station_5 1
+    2300032: Key_G_Station_4
+    2300034: Key_G_Station_5
+    2300036: Key_H_Station_4
+    2300038: Key_Q_Station_4
+    2300040: Key_R_Station_4
+    2300042: Key_T_Station_4
+    2300044: Key_Y_Station_4
+    2300046: Station_4
+    2300048: Station_5
+    2300050: Station_6
+    2300052: Station_7
+    3300000: Key_A_Station_4
+    3300002: Key_A_Station_5
+    3300004: Key_A_Station_6
+    3300006: Key_B_Station_4
+    3300008: Key_B_Station_5
+    3300010: Key_B_Station_5 1
+    3300012: Key_C_Station_4
+    3300014: Key_C_Station_5
+    3300016: Key_C_Station_5 1
+    3300018: Key_D_Station_4
+    3300020: Key_D_Station_5
+    3300022: Key_D_Station_5 1
+    3300024: Key_E_Station_4
+    3300026: Key_F_Station_4
+    3300028: Key_F_Station_5
+    3300030: Key_F_Station_5 1
+    3300032: Key_G_Station_4
+    3300034: Key_G_Station_5
+    3300036: Key_H_Station_4
+    3300038: Key_Q_Station_4
+    3300040: Key_R_Station_4
+    3300042: Key_T_Station_4
+    3300044: Key_Y_Station_4
+    3300046: Station_4
+    3300048: Station_5
+    3300050: Station_6
+    3300052: Station_7
+    4300000: Station_4
+    4300002: Key_G_Station_4
+    4300004: Key_Y_Station_4
+    4300006: Key_R_Station_4
+    4300008: Key_E_Station_4
+    4300010: Key_Q_Station_4
+    4300012: Key_H_Station_4
+    4300014: Key_A_Station_4
+    4300016: Key_F_Station_4
+    4300018: Key_C_Station_4
+    4300020: Key_D_Station_4
+    4300022: Key_B_Station_4
+    4300024: Station_7
+    4300026: Station_6
+    4300028: Key_A_Station_6
+    4300030: Key_D_Station_5
+    4300032: Key_F_Station_5
+    4300034: Key_B_Station_5
+    4300036: Key_C_Station_5
+    4300038: Station_5
+    4300040: Key_B_Station_5
+    4300042: Key_C_Station_5
+    4300044: Key_F_Station_5
+    4300046: Key_A_Station_5
+    4300048: Key_D_Station_5
+    4300050: Key_G_Station_5
+    4300052: Key_T_Station_4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.12
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108358
+  packageName: RADIO STATION
+  packageVersion: 1.0
+  assetPath: Assets/Radio Station/ELECTRONICS V.1/Models/Station_B.FBX
+  uploadId: 221974

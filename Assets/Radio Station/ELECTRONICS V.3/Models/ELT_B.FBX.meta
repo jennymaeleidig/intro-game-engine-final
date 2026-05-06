@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 55b6327cef4cfc34d9ea5d4adf9fa579
+timeCreated: 1512921369
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Com_1
+    100002: Com_2
+    100004: Com_3
+    100006: Com_4
+    100008: Com_5
+    100010: //RootNode
+    100012: m1
+    100014: m2
+    100016: m3
+    100018: Object015
+    100020: Vid_1
+    100022: Object020
+    100024: Vid_2
+    100026: Vid_3
+    100028: Vid_4
+    100030: Vid_A
+    100032: Vid_B
+    100034: Vid_C
+    100036: Vid_D
+    400000: Com_1
+    400002: Com_2
+    400004: Com_3
+    400006: Com_4
+    400008: Com_5
+    400010: //RootNode
+    400012: m1
+    400014: m2
+    400016: m3
+    400018: Object015
+    400020: Vid_1
+    400022: Object020
+    400024: Vid_2
+    400026: Vid_3
+    400028: Vid_4
+    400030: Vid_A
+    400032: Vid_B
+    400034: Vid_C
+    400036: Vid_D
+    2300000: Com_1
+    2300002: Com_2
+    2300004: Com_3
+    2300006: Com_4
+    2300008: Com_5
+    2300010: m1
+    2300012: m2
+    2300014: m3
+    2300016: Vid_1
+    2300018: Object020
+    2300020: Vid_2
+    2300022: Vid_3
+    2300024: Vid_4
+    2300026: Vid_A
+    2300028: Vid_B
+    2300030: Vid_C
+    2300032: Vid_D
+    3300000: Com_1
+    3300002: Com_2
+    3300004: Com_3
+    3300006: Com_4
+    3300008: Com_5
+    3300010: m1
+    3300012: m2
+    3300014: m3
+    3300016: Vid_1
+    3300018: Object020
+    3300020: Vid_2
+    3300022: Vid_3
+    3300024: Vid_4
+    3300026: Vid_A
+    3300028: Vid_B
+    3300030: Vid_C
+    3300032: Vid_D
+    4300000: Com_1
+    4300002: Com_2
+    4300004: Com_3
+    4300006: Com_5
+    4300008: Com_4
+    4300010: m1
+    4300012: m2
+    4300014: m3
+    4300016: Vid_1
+    4300018: Object020
+    4300020: Vid_2
+    4300022: Vid_3
+    4300024: Vid_4
+    4300026: Vid_C
+    4300028: Vid_D
+    4300030: Vid_A
+    4300032: Vid_B
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108358
+  packageName: RADIO STATION
+  packageVersion: 1.0
+  assetPath: Assets/Radio Station/ELECTRONICS V.3/Models/ELT_B.FBX
+  uploadId: 221974
